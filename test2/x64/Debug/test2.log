@@ -1,0 +1,11 @@
+﻿  源.cpp
+C:\Users\86131\Desktop\test2\源.cpp(14,26): error C2143: 语法错误: 缺少“;”(在“:”的前面)
+C:\Users\86131\Desktop\test2\源.cpp(14,26): error C2143: 语法错误: 缺少“)”(在“:”的前面)
+C:\Users\86131\Desktop\test2\源.cpp(14,26): error C2059: 语法错误:“:”
+C:\Users\86131\Desktop\test2\源.cpp(14,27): error C2059: 语法错误:“)”
+C:\Users\86131\Desktop\test2\源.cpp(4): fatal  error C1075: “{”: 未找到匹配令牌
+  源1.cpp
+C:\Users\86131\Desktop\test2\源1.cpp(3,1): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\Users\86131\Desktop\test2\源1.cpp(7,27): error C2065: “y”: 未声明的标识符
+  源29.cpp
+  正在生成代码...

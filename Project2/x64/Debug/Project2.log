@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\86131\Desktop\C_learning\Project2\源.cpp(7,34): warning C4305: “-=”: 从“double”到“float”截断
+C:\Users\86131\Desktop\C_learning\Project2\源.cpp(9,29): warning C4552: ”+“: 未使用表达式结果
+  Project2.vcxproj -> C:\Users\86131\Desktop\C_learning\Project2\x64\Debug\Project2.exe
